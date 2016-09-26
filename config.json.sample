@@ -1,0 +1,12 @@
+{
+    "default_proflie": "Default",
+    "config_file": "/path/to/karabiner.json",
+    "interval": 10,
+    "devices": [
+        {
+            "profile_name": "Profile name",
+            "vendor_id": "0x4d12",
+            "product_id": "0x2021"
+        }
+    ]
+}

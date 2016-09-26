@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Disabled</key>
+	<false/>
+	<key>Label</key>
+	<string>karabiner_profile_changer</string>
+	<key>OnDemand</key>
+	<false/>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/path/to/python</string>
+		<string>/path/to/karabiner_profile_changer/main.py</string>
+	</array>
+	<key>UserName</key>
+	<string>{{Your user name}}</string>
+</dict>
+</plist>

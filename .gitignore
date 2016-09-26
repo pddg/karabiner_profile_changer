@@ -1,0 +1,5 @@
+.idea
+.python-version
+*.plist
+*.json
+.DS_store
